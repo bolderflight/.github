@@ -23,6 +23,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
   * [AMS5812](https://github.com/bolderflight/ams5812): AMS5812 pressure transducers.
   * [Ainstein-USD1](https://github.com/bolderflight/ainstein-usd1): RADAR altimeter.
   * [MAX31865](https://github.com/bolderflight/max31865): RTD front-end driver.
+  * [TruStability RSC](https://github.com/bolderflight/tru-stability-rsc): Honeywell TruStability RSC pressure transducer.
 
 ### Data Processing
   * [Eigen](https://github.com/bolderflight/eigen/): Arduino port of the [Eigen matrix math library](https://eigen.tuxfamily.org/index.php?title=Main_Page).
