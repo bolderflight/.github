@@ -24,6 +24,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
   * [Ainstein-USD1](https://github.com/bolderflight/ainstein-usd1): RADAR altimeter.
   * [MAX31865](https://github.com/bolderflight/max31865): RTD front-end driver.
   * [TruStability RSC](https://github.com/bolderflight/tru-stability-rsc): Honeywell TruStability RSC pressure transducer.
+  * [Terabee TeraRanger Hub](https://github.com/bolderflight/terabee): Terabee TeraRanger hub time of flight sensor for ranging and obstacle avoidance.
 
 ### Data Processing
   * [Eigen](https://github.com/bolderflight/eigen/): Arduino port of the [Eigen matrix math library](https://eigen.tuxfamily.org/index.php?title=Main_Page).
