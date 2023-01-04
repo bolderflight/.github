@@ -12,6 +12,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
 ### Sensors
   * [Invensense-IMU](https://github.com/bolderflight/invensense-imu): MPU-6500 and MPU-9250 IMUs.
   * [VectorNav](https://github.com/bolderflight/vector-nav): VN-100, VN-200, and VN-300 IMU/INS over SPI communication. 
+  * [HG4930](https://github.com/bolderflight/hg4930): Honeywell HG4930 IMU driver over RS422.
   * [SBUS](https://github.com/bolderflight/sbus): Reading from SBUS receivers and sending commands to SBUS servos.
   * [uBlox](https://github.com/bolderflight/ublox): UBX packets from uBlox GNSS receivers.
   * [LIS3MDL](https://github.com/bolderflight/lis3mdl): Reading from the magnetometer.
