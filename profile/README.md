@@ -33,6 +33,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
   * [Polytools](https://github.com/bolderflight/polytools): polyfit and polyval.
   * [Statistics](https://github.com/bolderflight/statistics): real-time and moving window statistics.
   * [MAT v4](https://github.com/bolderflight/mat_v4): write variables in MATLAB v4 mat file format from Eigen and C++ arrays, matrices, and vectors.
+  * [Julian Date](https://github.com/bolderflight/juliandate): converts from year, month, day and hour, minute, second to a Julian date.
 
 ### Communication
   * [MAVLink](https://github.com/bolderflight/mavlink): an easier to use MAV Link implementation.
