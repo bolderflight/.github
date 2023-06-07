@@ -47,6 +47,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
 
 ### Estimation and Control
   * [Filter](https://github.com/bolderflight/filter): Rational transfer function and IIR filters.
+  * [World Magnetic Model](https://github.com/bolderflight/wmm): World Magnetic Model.
   * [Navigation](https://github.com/bolderflight/navigation): State estimation filters and navigation transforms.
   * [Air Data](https://github.com/bolderflight/airdata): Airspeed, altitude, temperature, and density.
   * [Control](https://github.com/bolderflight/control): Gain and PID control laws.
