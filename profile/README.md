@@ -29,6 +29,7 @@ Many of our sensor drivers and data processing libraries are compatible with Ard
 
 ### Data Processing
   * [Eigen](https://github.com/bolderflight/eigen/): Arduino port of the [Eigen matrix math library](https://eigen.tuxfamily.org/index.php?title=Main_Page).
+  * [Array Num Elements](https://github.com/bolderflight/array_num_elem): Returns the number of elements of a C-style array.
   * [Circular Buffer](https://github.com/bolderflight/circle_buf): Circular buffer.
   * [Polytools](https://github.com/bolderflight/polytools): polyfit and polyval.
   * [Statistics](https://github.com/bolderflight/statistics): real-time and moving window statistics.
